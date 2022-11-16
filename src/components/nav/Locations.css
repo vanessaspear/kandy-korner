@@ -1,0 +1,22 @@
+.store_location {
+    border-bottom: 3px dotted rgb(192, 192, 192);
+}
+
+.clock {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+.location_hours {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.locations_title {
+    text-align: center;
+    background-color: #C1D97C;
+    margin-top: 0;
+    padding: 10px;
+    font-size: 24px;
+}

@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Emilys+Candy&family=Lato:wght@400;700&display=swap');
+
+.customers {
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+}
+
+.customers_title {
+    text-align: center;
+    background-color: #C1D97C;
+    margin-top: 0;
+    padding: 10px;
+    font-size: 24px;
+}
+
+.customers_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.customer {
+    background-color:hwb(181 44% 23%);
+    color: white;
+    text-shadow: 0px 0px 2px black;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid gray;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+}
